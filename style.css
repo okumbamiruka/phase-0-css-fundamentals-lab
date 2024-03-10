@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+*{
+  text-align: center;
+}
+
+#details{
+  background-color: red;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+nav a{
+  background-color:antiquewhite;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+}
+
+figcaption{
+  font-style: italic;
+}
+
+#featured-property p{
+  width: 800px;
+  margin: auto;
+  margin-bottom: 10px;
+}
